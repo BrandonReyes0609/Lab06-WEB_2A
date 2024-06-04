@@ -35,6 +35,8 @@ https://github.com/BrandonReyes0609/lab_5-API-WEB.git
 ### Link Pagina
 https://heroic-malabi-23a460.netlify.app/
 
+## ver forma local
+http://127.0.0.1:3000/posts
 
 ![menu](https://github.com/BrandonReyes0609/Lab06-WEB_2A/assets/101024720/6d807d38-55c2-4b1a-a15c-e74fa1a252ed)
 
@@ -54,5 +56,4 @@ https://heroic-malabi-23a460.netlify.app/
 ## /GET despues /DELETE
 
 ![GET despues DELETE](https://github.com/BrandonReyes0609/lab_5-API-WEB/assets/101024720/da3292e1-67d2-4eb1-8d29-b4789e6adc05)
-
 
